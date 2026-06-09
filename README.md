@@ -8,5 +8,5 @@ user tries to guess it.
  - counts the number of attemts
 
 
-##auguage used
+##lauguage used
 -python
